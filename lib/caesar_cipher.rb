@@ -23,5 +23,5 @@ def caesar_cipher(string, num)
   end.join
 end
 
-p caesar_cipher("What a string!", 5)
-# "Bmfy f xywnsl!"
+# p caesar_cipher('What a string!', 5)
+# 'Bmfy f xywnsl!'
